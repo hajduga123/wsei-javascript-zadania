@@ -31,3 +31,6 @@ var animals = [
     }
 
 ]
+for (let prop in animals) {
+    console.log(animals[prop])
+}
